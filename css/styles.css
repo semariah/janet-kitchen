@@ -1,6 +1,8 @@
 
-header {
-  text-align: center;
-  background: url(https://imgur.com/qg7oG6A)
-  background-size:cover;
+
+div {
+  height: 200px;
+  background-size: cover;
+  background-image: url(/img/piirakka.jpg);
+
 }
