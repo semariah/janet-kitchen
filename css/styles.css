@@ -1,8 +1,12 @@
 
-
-div {
-  height: 200px;
-  background-size: cover;
-  background-image: url(/img/piirakka.jpg);
-
+body {
+  border: 40px solid blue;
+  padding: 12px;
+  margin: 20px;
+}
+h1 {
+  font-style: oblique;
+  color: blue;
+  text-align: center;
+  font-size: 50px;
 }
