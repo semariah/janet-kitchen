@@ -22,7 +22,7 @@ _No known Bugs._
 
 ## Support and contact details
 
-_If you run into any issues or have questions, ideas or concerns, I encourage you to make a contribution to the code._
+_If you run into any issues or have questions, ideas or concerns,contact me at _semaria.eyzac@gmail.com_. I encourage you to make a contribution to the code._
 
 ## Technologies Used
 
