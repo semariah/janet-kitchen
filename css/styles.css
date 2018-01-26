@@ -13,3 +13,11 @@ body {
   padding: 12px;
   margin: 4px;
 }
+blockquote {
+  border: 2px solid black;
+  padding: 10px;
+  margin: 2px;
+}
+img {
+  float: right;
+}
